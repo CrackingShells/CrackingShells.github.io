@@ -76,7 +76,7 @@ This document provides instructions on how to set up and run the project using D
 
 ## Next Step
 
-[Running Hatchling](./running_hatchling.md)
+[Running Hatchling](../running_hatchling.md)
 
 ## Additional Resources
 
