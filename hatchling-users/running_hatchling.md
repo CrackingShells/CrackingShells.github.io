@@ -10,7 +10,7 @@ You will learn about:
 - Starting and using Hatchling with Docker Compose
 # Running Hatchling
 
-This section assumes you have followed the [docker setup](./docker-setup.md).
+This section assumes you have followed the [docker setup](tutorials/docker-setup.md).
 
 In this guide, you will:
 
