@@ -1,0 +1,22 @@
+# GitHub Pages configuration for CrackingShells documentation
+theme: minima
+title: CrackingShells Documentation
+description: Documentation for Hatchling and related tools
+
+# Enable GitHub Pages features
+plugins:
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+# Markdown processing
+markdown: kramdown
+highlighter: rouge
+
+# Exclude certain files from processing
+exclude:
+  - README.md.backup
+  - vendor/
+  - .git/
+  - .gitignore
